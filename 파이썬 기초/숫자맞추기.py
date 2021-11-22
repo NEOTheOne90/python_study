@@ -1,7 +1,6 @@
-import art
+
 import random
 
-print(art.logo)  # 로고 출력
 print("당신의 이름은 ?")
 name = input()
 
